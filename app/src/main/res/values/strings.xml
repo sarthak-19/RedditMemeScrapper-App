@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="share">Share</string>
+    <string-array name="Spinner_iteams">
+        <item>Random</item>
+        <item>memes</item>
+        <item>MemeEconomy</item>
+        <item>dankmemes</item>
+        <item>funny</item>
+        <item>wholesomememes</item>
+        <item>nsfw</item>
+        <item>OnOff</item>
+        <item>HappyEmbarrassedGirls</item>
+        <item>RealGirls</item>
+        <item>enf</item>
+        <item>WatchItForThePlot</item>
+        <item>TittyDrop</item>
+
+    </string-array>
+    <string name="next">Next</string>
+</resources>
